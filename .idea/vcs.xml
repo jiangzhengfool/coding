@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/xgboost" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xgboost/build/xgboost" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xgboost/build/xgboost/LightGBM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xgboost/build/xgboost/LightGBM/external_libs/compute" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xgboost/build/xgboost/LightGBM/external_libs/fast_double_parser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xgboost/build/xgboost/cub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xgboost/build/xgboost/dmlc-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xgboost/build/xgboost/gputreeshap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xgboost/cub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xgboost/dmlc-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xgboost/gputreeshap" vcs="Git" />
+  </component>
+</project>
